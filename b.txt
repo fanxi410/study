@@ -1,5 +1,5 @@
-just for test!
-test second!
+just for test
+test second
 
 abcde
 
