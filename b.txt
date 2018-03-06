@@ -1,6 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-12!
+12
 =======
 =======
 >>>>>>> Stashed changes
